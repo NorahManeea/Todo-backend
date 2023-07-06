@@ -7,8 +7,24 @@ MERN stack todo application.
 
 ## Model:
 * Tasks Model:
-| Key      | Type      |
-| ---      | ---       |
-| Title    | String    |
-| Desc     | String    |
+<table>
+  <tr>
+    <th>Key</th>
+    <th>Type</th>
+    <th>Option</th>
+    <th>Default Value</th>
+  </tr>
+  <tr>
+    <td>Title</td>
+    <td>String</td>
+    <td>Required</td>
+    <td>N/A</td>
+  </tr>
+    <tr>
+    <td>Description</td>
+    <td>String</td>
+    <td>N/A</td>
+    <td>N/A</td>
+  </tr>
+</table>
 

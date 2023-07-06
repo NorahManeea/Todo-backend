@@ -3,5 +3,5 @@ MERN stack todo application.
 
 
 ## Development with MERN Stack Todo Application:
-** Backend - Node.js, Express.js & MongoDB database
+* Backend - Node.js, Express.js & MongoDB database
 

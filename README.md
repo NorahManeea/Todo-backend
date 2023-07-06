@@ -7,8 +7,8 @@ MERN stack todo application.
 
 ## Model:
 * Tasks Model:
-| Key  | Typy |
-| ---- | -------|
-| Title| String|
-| Description | String|
+| Key      | Type      |
+| ---      | ---       |
+| Title    | String    |
+| Desc     | String    |
 

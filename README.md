@@ -28,3 +28,17 @@ MERN stack todo application.
   </tr>
 </table>
 
+## Routes:
+<table>
+  <tr>
+    <th>HTTP Method</th>
+    <th>URL</th>
+    <th>Request Body</th>
+    <th>Success Status</th>
+    <th>Error Status</th>
+    <th>Description</th>
+  </tr>
+  
+</table>
+
+
